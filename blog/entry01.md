@@ -1,7 +1,8 @@
 # Entry 1
-##### X/X/XX
+## Learning my tool
+### 11/13/23
 
-Text
+The tool I decided to learn and use is [Roblox Studio](https://create.roblox.com/docs/studio/setting-up-roblox-studio) in order to make games on roblox.I chose to learn this tool as what I've heard about lua is that it is easy to learn in comparison with Python as I didn't want to make more pressure on myself with what I have currently going on. In addition I have had experienced playing roblox games and having a little brother who also plays roblox, I think it would be cool to make a game on it. What I plan to accomplish for this freedom project is to make a fighting game and possibiity have it be inspired by media I have seen or read if I do have the time to do so.What I have done so far is have a mini project where I try to create whats on my mind with the scope of it not being too huge and how I've been accomplishing that is through the [documentation](https://create.roblox.com/docs/tutorials/fundamentals/coding-4/intro-to-for-loops) as the syntax for loops is something that confused me initially when having a first glance at it but going through the documentation helped me understand how it was structured. My current engineering design process as I write this blog entry is researching the problem as I already chosen what tool I want to use and all I have to do so far is learn as the syntax is different from other languages i've used and also if there is anything special with lua that I should learn. The skills I'm using as of now is how to learn as it is necessary for my tool in order for me to use it and how to google as I may encounter a problem and googling it could help me resolve that problem and help understand better.
 
 [Next](entry02.md)
 
