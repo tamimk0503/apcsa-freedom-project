@@ -1,22 +1,22 @@
 # Tool Learning Log
 
-Tool: **X**
+Tool: **Roblox Lua**
 
-Project: **X**
+Project: **Creating a Battlegrounds Game**
 
 ---
 
-X/X/X:
-* Text
+12/17/23:
+* Learned how to use CFrame in order to rotate a part on its own
+  ```lua
+  local x = 0
+local part = script.Parent
+while true do
+	part.CFrame = part.CFrame * CFrame.Angles(0, 0, math.rad(x))
+	x = x + 1
+	wait(0.02)
+end
+  ```
 
-X/X/X:
-* Text
 
 
-<!-- 
-* Links you used today (websites, videos, etc)
-* Things you tried, progress you made, etc
-* Challenges, a-ha moments, etc
-* Questions you still have
-* What you're going to try next
--->
